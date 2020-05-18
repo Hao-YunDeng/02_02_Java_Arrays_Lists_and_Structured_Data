@@ -2,7 +2,7 @@
 /**
  * Write a description of CaesarCipherTwoKeysDecrypt here.
  * 
- * @author (your name) 
+ * @author (Hoayun Deng) 
  * @version (a version number or a date)
  */
 import edu.duke.*;
